@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "cost": 4,
+        "name": "MineFaster 9000",
+        "description": "The finest cryptocurrency mining software for your custom ASIC miner. It comes the latest and greatest hashing algorithm and will improve your mining efficiency by 500-3000%, making you the fastest miner in any mining pool that you decide to join.",
+        "picture": "img/miner.jpg",
+        "old_price": "6 ETH",
+        "new_price": "4 ETH"
+    },
+    {
+        "id": 1,
+        "cost": 1,
+        "name": "Windows 9",
+        "description": "Disatisfied with your current operating system? Feel like taking a gamble? Look no further, because our state of art Windows 9 is the software of your dreams. It will record everything you do on a Blockchain for maximum accountability. We will even be able to trace your wallet funds if you get hacked!",
+        "picture": "img/windows9.jpg",
+        "old_price": "1.5 ETH",
+        "new_price": "1 ETH"
+    }
+]
