@@ -85,7 +85,7 @@ App = {
             App.contracts.Purchase.deployed().then(function (instance) {
                 purchaseInstance = instance;
 
-                purchaseInstance.purchase(productId, {
+                purchaseInstance.purchase(productId, productCost, account, {
                     from: account, value: web3.toWei(productCost, 'ether')
                 }).then(function (hash) {
                     var licenseKey = hash.tx
