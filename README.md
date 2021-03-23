@@ -1,6 +1,7 @@
 # Certify
 
 #### This is a software licensing application built using Solidity to experiment with the Ethereum blockchain.  
+![image](https://user-images.githubusercontent.com/15316444/112085478-fc3e6180-8b60-11eb-9571-03b16ce42d15.png)
 
 #### Dependencies
 - Ubuntu 18.04 (Should also work on 16.04 or 14.04)
