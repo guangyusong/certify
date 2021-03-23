@@ -25,6 +25,6 @@
 - On successful purchase, the license key and the software will be available for download. The user can then run the downloaded software with python and it will prompt you to enter the key and activate the software. Once the software is already activated, it cannot be activated again.
 
 References:
-https://techmalak.com/hope-windows-9-better-windows-8/
-https://github.com/mdbootstrap/Ecommerce-Template-Bootstrap
-https://www.trufflesuite.com/tutorials/pet-shop
+- https://techmalak.com/hope-windows-9-better-windows-8/
+- https://github.com/mdbootstrap/Ecommerce-Template-Bootstrap
+- https://www.trufflesuite.com/tutorials/pet-shop
